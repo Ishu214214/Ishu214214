@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ishu214214" alt="ishu214214" /></a> </p>
 
-- 🔭 I’m currently working on [ML](https://github.com/Ishu214214/Hierarchical_clustering)
+- 🔭 I’m currently working on [ML And AI](https://github.com/Ishu214214/Hierarchical_clustering)
 
 - 🌱 I’m currently learning **ML, DataScience ,AI**
 
